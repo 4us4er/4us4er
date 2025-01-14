@@ -11,9 +11,7 @@
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
 </a>
 </div>
- <div id="vievs" align="center" dir='auto'>
- <img src="https://komarev.com/ghpvc/?username=4us4er&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 ### About me
 - 🌱 I’m currently learning **Web3, GameDev**
