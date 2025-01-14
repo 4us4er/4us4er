@@ -2,7 +2,6 @@
 
 <div id="header" align="center">
     <h1 align="center">Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Я Вика!</a></h1>
-    <h3 align="center">Начинающий frontend разработчик</h3>
 </div>
 
 <div id="badges" align="center" dir='auto'>
