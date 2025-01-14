@@ -15,7 +15,7 @@
 </div>
 
 
-### About me
+### :woman_technologist: About Me :
 - 🌱 I’m currently learning **Web3, GameDev**
 - 📝 I regularly write articles on [Medium](medium-link)
 - 📄 Know about my experiences [CV](cv-link)
