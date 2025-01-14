@@ -15,7 +15,8 @@
 </div>
 
 
-### :woman_technologist: About Me :
+### :woman_technologist: Обо мне :
+Я начинающий Frontend раработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 - 🌱 I’m currently learning **Web3, GameDev**
 - 📝 I regularly write articles on [Medium](medium-link)
 - 📄 Know about my experiences [CV](cv-link)
