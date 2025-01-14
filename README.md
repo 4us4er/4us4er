@@ -8,6 +8,8 @@
 <a  href="https://vk.com/4us4e" rel="nofollow">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
 </a>
+</div>
+ <div id="vievs" align="center" dir='auto'>
+ <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
