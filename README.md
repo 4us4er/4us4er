@@ -6,7 +6,7 @@
 
 <div id="badges" align="center" dir='auto'>
 <a  href="https://t.me/forus4e" rel="nofollow">
-  <img src="https://img.shields.io/badge/TG-blue?style=for-the-badge&logo=TG&logoColor=white alt="TG Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram-blue&logoColor=white alt="TG Badge"/>
 </a>
 <a  href="https://vk.com/4us4e" rel="nofollow">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
