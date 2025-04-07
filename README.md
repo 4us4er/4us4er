@@ -36,3 +36,4 @@
 ### :fire: Моя статистика :
 [![GitHub Streak](https://streak-stats.demolab.com?user=4us4e&theme=radical)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4us4e&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
