@@ -37,10 +37,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=4us4er&theme=radical)](https://git.io/streak-stats)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=4us4er&theme=github-compact)
-
 ![snake gif](https://github.com/4us4er/4us4er/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
