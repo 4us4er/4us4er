@@ -37,10 +37,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=4us4er&theme=radical)](https://git.io/streak-stats)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=4us4e&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=4us4er&theme=github-compact)
 
-![snake gif](https://github.com/4us4e/4us4e/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/4us4er/4us4er/blob/output/github-contribution-grid-snake.svg)
 
-![Vika's GitHub stats](https://github-readme-stats.vercel.app/api?username=4us4e&show_icons=true&theme=radical)
+
 
 
